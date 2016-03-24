@@ -1,0 +1,14 @@
+layout_spectrum: 0.7127659
+typography_spectrum: 0.7446808
+color:
+  saturation: 0.01967221
+  lightness: 0.6706258
+  brandStrength: 0.7872341
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#414141'
+    - '#8F8F8F'
+    - '#CDCDCD'
+  rhythmicContrast: 0.6760011
+name: 'Edeonglass '
