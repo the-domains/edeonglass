@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Edeonglass ]]></title>
         <description><![CDATA[Edeonglass ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edeonglass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 04:15:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 04:19:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edeonglass/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/345828fb-033c-4e82-b063-3c9fa3f148ad.png">]]></description>
+            <link>https://thegrid.ai/edeonglass/e8c49e90-8741-4956-a1d6-f714ecc2adba/index.html</link>
+            <guid isPermaLink="false">e8c49e90-8741-4956-a1d6-f714ecc2adba</guid>
+            <pubDate>Tue, 29 Mar 2016 04:19:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea391578-034d-44a1-af55-837a7b740f73.jpg">]]></description>
-            <link>undefinedb3fa3197-c36d-4cd2-801d-cd997226525d/index.html</link>
+            <link>https://thegrid.ai/edeonglass/b3fa3197-c36d-4cd2-801d-cd997226525d/index.html</link>
             <guid isPermaLink="false">b3fa3197-c36d-4cd2-801d-cd997226525d</guid>
             <pubDate>Tue, 29 Mar 2016 04:15:51 GMT</pubDate>
         </item>
